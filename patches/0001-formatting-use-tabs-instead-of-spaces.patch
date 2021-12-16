@@ -1,4 +1,4 @@
-From b30962a7cdd23fa2d3635aa374ba62ea1d730c59 Mon Sep 17 00:00:00 2001
+From b30962a7cdd23fa2d3635aa374ba62ea1d730c59  Mon Sep 17 00:00:00 2001
 From: Sergii Piatakov <sergii.piatakov@globallogic.com>
 Date: Thu, 15 Nov 2018 15:26:35 +0200
 Subject: [PATCH] formatting: use tabs instead of spaces
